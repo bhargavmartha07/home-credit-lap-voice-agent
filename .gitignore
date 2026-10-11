@@ -1,0 +1,16 @@
+# Local tooling and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local audio exports are kept outside Git unless explicitly approved.
+*.wav
+*.mp3
+*.m4a

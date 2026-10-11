@@ -1,0 +1,40 @@
+agent: Hello, may I speak with Bhargav?
+user: Yes. 
+agent: Thank you, Bhargav. We're reaching out because you're one of our valued customers. We'd like to inform you about a Loan Against Property offer of up to ₹75 lakh. I'd like to ask a few questions to check whether this offer may be suitable for you. Would it be convenient to continue?
+user: Is IIM available? 
+agent: Could you clarify what you mean by “IIM available”?
+user: Yes. I am available. 
+agent: What type of property would you like to use for the loan: residential, commercial, or industrial?
+user: Residency. 
+agent: Is it a residential property?
+user: Yes. 
+agent: Is the property solely owned by you, or jointly owned with family members or partners?
+user: Properties won't wait me. 
+agent: Sorry, could you confirm whether the property is owned only by you or jointly with 
+user: Only 
+agent: someone else?
+user: by me. 
+agent: Just to confirm, is the property owned only 
+user: Yes. 
+agent: by you?
+agent: Are the original property documents available for verification?
+user: Yes. 
+user: Documents are available. 
+agent: Approximately how much would you like to borrow?
+user: Fifty lakh. 
+agent: Could you tell me whether you're salaried or self-employed, and whether your income is received through a bank or in cash?
+user: Salary and income is coming from bank. 
+agent: Approximately how much is your property worth?
+user: One crore. 
+agent: Over how many years would you prefer to repay the loan?
+user: Ten years. 
+agent: Thank you for answering those questions. Based on this preliminary check, we can move to the next step. A senior loan expert will contact you shortly to discuss the offer, exact interest rate, and further process.
+user: Thank you. 
+agent: You're welcome. Thank you for your time. Goodbye.
+
+
+
+Summary
+The agent screened Bhargav for a loan against property. He confirmed a solely owned residential property with original documents available, requested ₹50 lakh against a property worth ₹1 crore, has salaried bank income, and prefers a 10-year repayment term; a senior loan expert will follow up.
+
+

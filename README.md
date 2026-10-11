@@ -109,10 +109,10 @@ The transcript is included as evidence of the simulated conversation.
 
 ## 📂 Project Artifacts
 
-- **System prompt:** `prompts/Home_Credit_LAP_System_Prompt.txt`
-- **Successful call transcript:** `transcripts/Successful_Call_Transcript.txt`
-- **Assignment overview:** `docs/assignment-overview.md`
-- **Call recording:** Shared separately through Google Drive.
+- **System prompt:** [prompts/Home_Credit_LAP_System_Prompt.txt](prompts/Home_Credit_LAP_System_Prompt.txt)
+- **Successful call transcript:** [transcripts/Successful_Call_Transcript.txt](transcripts/Successful_Call_Transcript.txt)
+- **Assignment overview:** [docs/assignment-overview.md](docs/assignment-overview.md)
+- **Call recording:** The WAV recording is intended to be shared separately through Google Drive. No recording URL was provided for this repository.
 
 ## 🔒 Privacy and Security
 
@@ -132,3 +132,5 @@ The transcript is included as evidence of the simulated conversation.
 Developed as part of the **Home Credit Loan Against Property Voice Agent Design** assignment using Retell AI.
 
 The system prompt and test transcript document the implemented conversational logic and the results of a successful simulated call.
+
+This is a Retell-configured voice-agent prototype, not a standalone executable application, an API integration, or a loan approval system.
